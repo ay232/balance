@@ -1,0 +1,10 @@
+$a = null;
+is_string($a)
+$b = $a ?: now()
+$b
+exit
+DB::table('operations')->delete()
+
+учше
+чше
+exit
